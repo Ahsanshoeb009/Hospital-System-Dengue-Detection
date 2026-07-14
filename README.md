@@ -1,11 +1,12 @@
 # Hospital Management System
 
 ## Project Description
-This is a simple Hospital Management System developed using C programming. 
-The system takes patient information, body temperature, and illness duration as input and analyzes the condition to predict whether the patient is suffering from dengue or has a normal condition.
+This is a simple Hospital Management System developed using java programming. 
+The system takes patient information, body temperature, and illness duration as input and analyzes the condition to 
+predict whether the patient is suffering from dengue or has a normal condition.
 
 ## Technologies Used
-- C Programming Language
+- java Programming Language
 
 ## Features
 - Patient information management
